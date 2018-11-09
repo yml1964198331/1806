@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ï»¿å¥½missä½ 
+=======
+ºÃmissÄã
+>>>>>>> f2ea4ae6eea05235823cab5f9ab5bcb2054e0b0b
